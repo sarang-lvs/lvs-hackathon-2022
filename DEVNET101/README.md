@@ -1,4 +1,4 @@
-# DEVNET101 Lab Material
+# DEVNET102 Lab Material
 
 ## Lab Overview
 

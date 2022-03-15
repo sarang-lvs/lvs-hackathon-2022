@@ -1,4 +1,4 @@
-# Low/No Code Hands-on material
+# DEVNET101 Lab Material
 
 ## Lab Overview
 
